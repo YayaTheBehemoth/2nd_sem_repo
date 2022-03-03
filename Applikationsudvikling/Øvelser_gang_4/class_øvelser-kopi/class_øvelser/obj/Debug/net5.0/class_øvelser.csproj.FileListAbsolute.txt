@@ -1,0 +1,15 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.csproj.CoreCompileInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/bin/Debug/net5.0/class_øvelser.deps.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/bin/Debug/net5.0/class_øvelser.runtimeconfig.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/bin/Debug/net5.0/class_øvelser.runtimeconfig.dev.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/bin/Debug/net5.0/class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/bin/Debug/net5.0/ref/class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/bin/Debug/net5.0/class_øvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/ref/class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/Debug/net5.0/class_øvelser.genruntimeconfig.cache

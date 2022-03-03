@@ -1,0 +1,15 @@
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\bin\Debug\net6.0\øvelser2og3.exe
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\bin\Debug\net6.0\øvelser2og3.deps.json
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\bin\Debug\net6.0\øvelser2og3.runtimeconfig.json
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\bin\Debug\net6.0\øvelser2og3.dll
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\bin\Debug\net6.0\ref\øvelser2og3.dll
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\bin\Debug\net6.0\øvelser2og3.pdb
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.csproj.AssemblyReference.cache
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.AssemblyInfoInputs.cache
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.AssemblyInfo.cs
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.csproj.CoreCompileInputs.cache
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.dll
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\ref\øvelser2og3.dll
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.pdb
+C:\Users\allan\Dropbox\It-Ark\Applikationsudvikling\Øvelser\Forberedelse_gang1\øvelser2og3\øvelser2og3\obj\Debug\net6.0\øvelser2og3.genruntimeconfig.cache

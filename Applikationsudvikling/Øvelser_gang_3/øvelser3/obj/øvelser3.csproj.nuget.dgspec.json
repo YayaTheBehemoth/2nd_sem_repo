@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/Øvelser_gang_3/øvelser3/øvelser3/øvelser3.csproj": {}
+  },
+  "projects": {
+    "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/Øvelser_gang_3/øvelser3/øvelser3/øvelser3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/Øvelser_gang_3/øvelser3/øvelser3/øvelser3.csproj",
+        "projectName": "øvelser3",
+        "projectPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/Øvelser_gang_3/øvelser3/øvelser3/øvelser3.csproj",
+        "packagesPath": "/Users/placeholder/.nuget/packages/",
+        "outputPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/Øvelser_gang_3/øvelser3/øvelser3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/placeholder/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
