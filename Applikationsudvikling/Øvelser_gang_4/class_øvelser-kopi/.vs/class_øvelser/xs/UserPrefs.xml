@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{D97984FA-047F-4EE5-B076-041DC4C37EA1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="class_øvelser/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="class_øvelser/People.cs">
     <Files>
       <File FileName="class_øvelser/Program.cs" Line="12" Column="12" />
       <File FileName="class_øvelser/Dice.cs" />
-      <File FileName="class_øvelser/vehicle.cs" Line="8" Column="31" />
+      <File FileName="class_øvelser/vehicle.cs" />
       <File FileName="class_øvelser/People.cs" Line="39" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="class_øvelser" expanded="True">
-            <Node name="class_øvelser" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="class_øvelser" expanded="True" selected="True">
+            <Node name="class_øvelser" expanded="True" />
           </Node>
         </State>
       </Pad>

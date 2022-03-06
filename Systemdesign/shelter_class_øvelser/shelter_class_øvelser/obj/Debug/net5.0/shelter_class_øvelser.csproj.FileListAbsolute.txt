@@ -1,0 +1,15 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/bin/Debug/net5.0/shelter_class_øvelser.deps.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/bin/Debug/net5.0/shelter_class_øvelser.runtimeconfig.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/bin/Debug/net5.0/shelter_class_øvelser.runtimeconfig.dev.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/bin/Debug/net5.0/shelter_class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/bin/Debug/net5.0/ref/shelter_class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/bin/Debug/net5.0/shelter_class_øvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.csproj.CoreCompileInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/ref/shelter_class_øvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/shelter_class_øvelser/shelter_class_øvelser/obj/Debug/net5.0/shelter_class_øvelser.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/class_øvelser.csproj",
+      "projectUniqueName": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Øvelser_gang_4/class_øvelser-kopi/class_øvelser/class_øvelser.csproj",
       "projectName": "class_øvelser",
-      "projectPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/class_øvelser.csproj",
+      "projectPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Øvelser_gang_4/class_øvelser-kopi/class_øvelser/class_øvelser.csproj",
       "packagesPath": "/Users/placeholder/.nuget/packages/",
-      "outputPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/øvelser_gang_4/class_øvelser/class_øvelser/obj/",
+      "outputPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Øvelser_gang_4/class_øvelser-kopi/class_øvelser/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/placeholder/.config/NuGet/NuGet.Config"
