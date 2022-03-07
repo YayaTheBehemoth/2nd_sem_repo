@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{02A39073-6A7F-4A4A-9A37-10A209116E51}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="shelter_class_øvelser/kontotype.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="shelter_class_øvelser/Program.cs">
     <Files>
-      <File FileName="shelter_class_øvelser/Program.cs" Line="27" Column="12" />
+      <File FileName="shelter_class_øvelser/Program.cs" Line="19" Column="36" />
       <File FileName="shelter_class_øvelser/kontotype.cs" Line="5" Column="5" />
-      <File FileName="shelter_class_øvelser/konto.cs" Line="28" Column="43" />
+      <File FileName="shelter_class_øvelser/konto.cs" Line="38" Column="36" />
       <File FileName="shelter_class_øvelser/transaktioner.cs" Line="18" Column="36" />
+      <File FileName="shelter_class_øvelser/shelter.cs" Line="71" Column="57" />
+      <File FileName="shelter_class_øvelser/område.cs" Line="11" Column="67" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="shelter_class_øvelser" expanded="True">
             <Node name="shelter_class_øvelser" expanded="True">
-              <Node name="kontotype.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

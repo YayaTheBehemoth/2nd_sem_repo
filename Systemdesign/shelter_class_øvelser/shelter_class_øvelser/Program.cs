@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace shelter_class_øvelser
 {
@@ -6,6 +7,7 @@ namespace shelter_class_øvelser
     {
         static void Main(string[] args)
         {
+            /*
             //methods that demonstrates shelterclasses
             shelter a = new shelter(1, 1, "nice", 1, 1);
             a.getInfo();
@@ -24,7 +26,9 @@ namespace shelter_class_øvelser
             e.indsætBeløb(1000);
             d.beregnSaldo();
             e.beregnSaldo();
-           
+           */
+            int [] a = { 2,3};
+            område b = new område(2, "shid", "fuck", "gahdamn", a);
 
         }
     }

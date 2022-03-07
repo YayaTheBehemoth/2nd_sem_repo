@@ -67,6 +67,11 @@ namespace cardgame
         {
             return _cards.Pop();
         }
+
+        public void clear()
+        {
+            _cards.Clear();
+        }
         
     }
 }

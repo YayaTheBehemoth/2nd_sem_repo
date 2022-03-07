@@ -50,6 +50,8 @@ namespace shelter_class_øvelser
         {
             get { return this._tilgængelighed; }
         }
+
+        //generic method that fetches all info from a given object
         public void getInfo()
         {
             Console.WriteLine($"navn:{navn}");
@@ -59,14 +61,14 @@ namespace shelter_class_øvelser
             Console.WriteLine($"tilladte gæster:{tilladte_gæster}");
             
         }
-
+        //changes "tilgængelighed" value
         public void bookShelter()
         {
             _tilgængelighed = false;
             Console.WriteLine($"{this.navn} er nu blevet booket");
             
         }
-
+        //changes "tilgængelighed" value if it is false 
         public void unbookShelter()
         {
             if (_tilgængelighed == false)
