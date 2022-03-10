@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using player_class;
 
 namespace class_øvelser
 {
@@ -84,6 +85,37 @@ namespace class_øvelser
             Console.WriteLine(e.middlename);
             Console.WriteLine(e.lastname);
             Console.WriteLine(e.cprno);
+            */
+            /*
+            car a = new car("6969", "red", 69, "Fuck", "Fuck", 1, 1);
+            bus b = new bus("7070", "blue", 70, "shid", "shid", 3);
+            truck c = new truck("7171", "green", 71,"cum","cum", 1,1);
+            Console.WriteLine(c.colour);
+            Console.WriteLine(c.regno);
+            Console.WriteLine(c.getYear());
+            Console.WriteLine(c.getModel());
+            Console.WriteLine(c.getMake());
+            Console.WriteLine(a.colour);
+            Console.WriteLine(a.regno);
+            Console.WriteLine(a.getYear());
+            Console.WriteLine(a.getModel());
+            Console.WriteLine(a.getMake());
+            Console.WriteLine(b.colour);
+            Console.WriteLine(b.regno);
+            Console.WriteLine(b.getYear());
+            Console.WriteLine(b.getModel());
+            Console.WriteLine(b.getMake());
+            Console.WriteLine(b.noOfPassengers);
+            Console.WriteLine(a.noOfDoors);
+            Console.WriteLine(a.noOfSeats);
+            Console.WriteLine(c.totalWeight);
+            Console.WriteLine(c.maxLoad);
+            */
+            /*
+            pairofdice a = new pairofdice();
+
+            a.shakeIt();
+            Console.WriteLine(a.showTotal());
             */
 
         }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using player_class;
 
 namespace cardgame
 {
@@ -7,51 +8,51 @@ namespace cardgame
     {
         static void Main(string[] args)
         {
+            //det giver ikke mening at lave en person subclass, en spiller i "krig" holder blot point og trækker kort 
+            //initialiser to "Player" objekter som bruges til at holde point
+            player a = new player("navn1");
+            player b = new player("navn2");
+            //initialiserer to deck objekter som skal bruges til spillet og kalder "shuffle" metoden
             
-               
-               int p1Points = 0;
-                int p2Points = 0;
                 deck_of_cards p1Deck = new deck_of_cards();
                 deck_of_cards p2Deck = new deck_of_cards();
                 p1Deck.shuffleDeck();
                 p2Deck.shuffleDeck();
-                for (int i = p1Deck.cards.Count; i > 0; i--)
+         
+            //looper igennem deckene og kalder drawCard metoden som trækker et kort
+            for (int i = p1Deck.cards.Count; i > 0; i--)
             {
-                
+
+                //sammenligner de to trukne kort 
                 if ((p1Deck.drawCard().rank) > (p2Deck.drawCard().rank))
                 {
-                    p1Points = p1Points + 1;
+                    a.addPoints();
                 }
                 else
                 {
-                    p2Points = p2Points + 1;
+                    b.addPoints();
+
                 }
+
+            
             }
+            //tømmer deckene når spillet er færdigt
             p1Deck.clear();
             p2Deck.clear();
 
-               /*
-                foreach (card n in p1Deck.cards)
-                {
-                     if ((p1Deck.drawCard().rank)> (p2Deck.drawCard().rank))
-                    {
-                        p1Points = p1Points + 1; 
-                    } else  {
-                        p2Points = p2Points + 1;
-                    } 
-                }
-               */
 
-            
-                Console.WriteLine($"player 1 has {p1Points} points");
-                Console.WriteLine($"player 2 has {p2Points} points");
+
+
+            //printer pointstillingen og differencen 
+            Console.WriteLine($"player 1 has {a.points} points");
+           Console.WriteLine($"player 2 has {b.points} points");
                 int pointDiff = 0;
-                if (p1Points > p2Points)
+                if (a.points > b.points)
                 {
-                    pointDiff = p1Points - p2Points;
+                    pointDiff = a.points - b.points;
                 } else
                 {
-                    pointDiff = p2Points - p1Points;
+                    pointDiff = b.points - a.points;
                 }
                 Console.WriteLine($"the difference was {pointDiff}");
 

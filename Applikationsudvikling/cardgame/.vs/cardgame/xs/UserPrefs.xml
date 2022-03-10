@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{AC81FDD7-4703-404D-8A04-AE1341BEA4CB}|Default">
   <MonoDevelop.Ide.ItemProperties.cardgame PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="cardgame/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cardgame/card.cs">
     <Files>
-      <File FileName="cardgame/Program.cs" Line="20" Column="17" />
-      <File FileName="cardgame/card.cs" />
-      <File FileName="cardgame/deck_of_cards.cs" Line="68" Column="1" />
+      <File FileName="cardgame/Program.cs" Line="12" Column="40" />
+      <File FileName="cardgame/card.cs" Line="1" Column="1" />
+      <File FileName="cardgame/deck_of_cards.cs" />
+      <File FileName="cardgame/player.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="cardgame" expanded="True">
             <Node name="cardgame" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="card.cs" selected="True" />
             </Node>
           </Node>
         </State>
