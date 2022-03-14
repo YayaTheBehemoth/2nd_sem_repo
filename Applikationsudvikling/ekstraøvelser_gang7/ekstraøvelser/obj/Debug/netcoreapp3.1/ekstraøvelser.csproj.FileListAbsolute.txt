@@ -1,0 +1,13 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/bin/Debug/netcoreapp3.1/ekstraøvelser.deps.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/bin/Debug/netcoreapp3.1/ekstraøvelser.runtimeconfig.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/bin/Debug/netcoreapp3.1/ekstraøvelser.runtimeconfig.dev.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/bin/Debug/netcoreapp3.1/ekstraøvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/bin/Debug/netcoreapp3.1/ekstraøvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.csproj.CoreCompileInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/Debug/netcoreapp3.1/ekstraøvelser.genruntimeconfig.cache

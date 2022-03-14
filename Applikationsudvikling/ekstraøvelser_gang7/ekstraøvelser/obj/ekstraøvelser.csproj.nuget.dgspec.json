@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Nedarvning_øvelser/nedarvning_øvelser/nedarvning_øvelser.csproj": {}
+    "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/ekstraøvelser.csproj": {}
   },
   "projects": {
-    "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Nedarvning_øvelser/nedarvning_øvelser/nedarvning_øvelser.csproj": {
+    "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/ekstraøvelser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Nedarvning_øvelser/nedarvning_øvelser/nedarvning_øvelser.csproj",
-        "projectName": "nedarvning_øvelser",
-        "projectPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Nedarvning_øvelser/nedarvning_øvelser/nedarvning_øvelser.csproj",
+        "projectUniqueName": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/ekstraøvelser.csproj",
+        "projectName": "ekstraøvelser",
+        "projectPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/ekstraøvelser.csproj",
         "packagesPath": "/Users/placeholder/.nuget/packages/",
-        "outputPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/Nedarvning_øvelser/nedarvning_øvelser/obj/",
+        "outputPath": "/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/ekstraøvelser_gang7/ekstraøvelser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/placeholder/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
