@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7A382AD8-BA9B-426D-ADCE-3C179608964D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shoopinglist/Data/WeatherForecastService.cs">
+    <Files>
+      <File FileName="Shoopinglist/Data/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Shoopinglist/Data/WeatherForecastService.cs" Line="1" Column="1" />
+      <File FileName="Shoopinglist/Pages/_Host.cshtml" Line="1" Column="1" />
+      <File FileName="Shoopinglist/Pages/Counter.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shoopinglist" expanded="True">
+            <Node name="Shoopinglist" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="WeatherForecastService.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shoopinglist PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

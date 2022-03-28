@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DFB4EC45-EB5C-4EF5-8FEF-BB4957495395}|Default">
+  <MonoDevelop.Ide.ItemProperties.shoppinglist PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="shoppinglist/Shared/EmptyClass.cs">
+    <Files>
+      <File FileName="shoppinglist/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="shoppinglist/Shared/EmptyClass.cs" Line="12" Column="28" />
+      <File FileName="shoppinglist/Pages/FetchData.razor" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shoppinglist" expanded="True">
+            <Node name="shoppinglist" expanded="True">
+              <Node name="Shared" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

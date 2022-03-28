@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3FA80D69-1E34-4CDA-83CC-1CA8CF8BC3D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sortøvelser/Program.cs">
+    <Files>
+      <File FileName="sortøvelser/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sortøvelser" expanded="True">
+            <Node name="sortøvelser" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sortøvelser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

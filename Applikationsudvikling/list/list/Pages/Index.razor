@@ -1,0 +1,34 @@
+﻿@page "/"
+
+<h1>Shoppinglist</h1>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code{
+    List<ShoppingItem> items = new List<ShoppingItem>();
+
+}
+
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+
+        currentCount++;
+        items.Add(new ShoppingItem("big item"));
+    }
+
+
+}
+
+    @foreach(var ShoppingItem in items)
+    {
+        <li>@ShoppingItem.title </li>
+        
+    }
+
+
+
+

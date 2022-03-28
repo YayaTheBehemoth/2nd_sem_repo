@@ -1,0 +1,15 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.csproj.CoreCompileInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/bin/Debug/net5.0/tilstande1.deps.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/bin/Debug/net5.0/tilstande1.runtimeconfig.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/bin/Debug/net5.0/tilstande1.runtimeconfig.dev.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/bin/Debug/net5.0/tilstande1.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/bin/Debug/net5.0/ref/tilstande1.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/bin/Debug/net5.0/tilstande1.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/ref/tilstande1.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande1/tilstande1/obj/Debug/net5.0/tilstande1.genruntimeconfig.cache

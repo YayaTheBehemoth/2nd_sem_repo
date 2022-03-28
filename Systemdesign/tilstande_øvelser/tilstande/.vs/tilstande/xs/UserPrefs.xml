@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{397175C1-1FFF-4C18-A473-D898FE41FA1C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tilstande/Tilstande.cs">
+    <Files>
+      <File FileName="tilstande/Tilstande.cs" Line="44" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tilstande" expanded="True">
+            <Node name="tilstande" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.tilstande PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{459A0F14-E78C-416E-9C81-56CBCBE26DA3}|Default">
   <MonoDevelop.Ide.ItemProperties.ekstraøvelser PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ekstraøvelser/bjplayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ekstraøvelser/Program.cs">
     <Files>
-      <File FileName="ekstraøvelser/Program.cs" Line="86" Column="57" />
-      <File FileName="ekstraøvelser/bjplayer.cs" Line="63" Column="13" />
-      <File FileName="ekstraøvelser/bjcard.cs" Line="11" Column="23" />
-      <File FileName="ekstraøvelser/player.cs" Line="8" Column="5" />
-      <File FileName="ekstraøvelser/deck_of_cards.cs" Line="68" Column="1" />
-      <File FileName="ekstraøvelser/card.cs" Line="66" Column="33" />
+      <File FileName="ekstraøvelser/Program.cs" Line="126" Column="72" />
+      <File FileName="ekstraøvelser/bjplayer.cs" />
+      <File FileName="ekstraøvelser/bjcard.cs" />
+      <File FileName="ekstraøvelser/player.cs" />
+      <File FileName="ekstraøvelser/deck_of_cards.cs" />
+      <File FileName="ekstraøvelser/card.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ekstraøvelser_gang7" expanded="True">
             <Node name="ekstraøvelser" expanded="True">
-              <Node name="bjplayer.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

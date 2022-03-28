@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0E17B45B-3035-43A1-940E-BED90235CACB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="list/Pages/Index.razor">
+    <Files>
+      <File FileName="list/Pages/Index.razor" Line="5" Column="76" />
+      <File FileName="list/Pages/FetchData.razor" Line="21" Column="35" />
+      <File FileName="list/Shared/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="list" expanded="True">
+            <Node name="list" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.list PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

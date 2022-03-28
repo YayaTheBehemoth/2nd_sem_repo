@@ -1,0 +1,5 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande/tilstande/obj/Debug/netcoreapp3.1/tilstande.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande/tilstande/obj/Debug/netcoreapp3.1/tilstande.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande/tilstande/obj/Debug/netcoreapp3.1/tilstande.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande/tilstande/obj/Debug/netcoreapp3.1/tilstande.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Systemdesign/tilstande_øvelser/tilstande/tilstande/obj/Debug/netcoreapp3.1/tilstande.csproj.CoreCompileInputs.cache

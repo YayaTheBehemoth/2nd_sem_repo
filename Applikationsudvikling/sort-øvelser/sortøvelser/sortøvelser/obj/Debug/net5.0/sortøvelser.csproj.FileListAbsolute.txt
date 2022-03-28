@@ -1,0 +1,15 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/bin/Debug/net5.0/sortøvelser.deps.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/bin/Debug/net5.0/sortøvelser.runtimeconfig.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/bin/Debug/net5.0/sortøvelser.runtimeconfig.dev.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/bin/Debug/net5.0/sortøvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/bin/Debug/net5.0/ref/sortøvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/bin/Debug/net5.0/sortøvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.csproj.CoreCompileInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/ref/sortøvelser.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/sort-øvelser/sortøvelser/sortøvelser/obj/Debug/net5.0/sortøvelser.genruntimeconfig.cache

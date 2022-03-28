@@ -1,0 +1,13 @@
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/bin/Debug/netcoreapp3.1/øvelser_gang_8.deps.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/bin/Debug/netcoreapp3.1/øvelser_gang_8.runtimeconfig.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/bin/Debug/netcoreapp3.1/øvelser_gang_8.runtimeconfig.dev.json
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/bin/Debug/netcoreapp3.1/øvelser_gang_8.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/bin/Debug/netcoreapp3.1/øvelser_gang_8.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.csproj.AssemblyReference.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.AssemblyInfoInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.AssemblyInfo.cs
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.csproj.CoreCompileInputs.cache
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.dll
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.pdb
+/Users/placeholder/Dropbox/It-Ark/Applikationsudvikling/Øvelser/2nd-sem-repo/Applikationsudvikling/øvelser_gang_8/øvelser_gang_8/obj/Debug/netcoreapp3.1/øvelser_gang_8.genruntimeconfig.cache
